@@ -4,11 +4,13 @@ services:
   mysql:
     image: mysql:8
     ports:
-      - 3306:3306
+      - "3306:3306"
     volumes:
-      - ~/apps/mysql:/var/lib/mysql
+      - db_data:/var/lib/mysql
     environment:
       - MYSQL_ROOT_PASSWORD=password
       - MYSQL_PASSWORD=password
       - MYSQL_USER=user1
       - MYSQL_DATABASE=db_1
+volumes:
+  db_data:

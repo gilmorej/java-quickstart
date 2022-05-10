@@ -1,0 +1,35 @@
+[
+  {
+    "GPA": "2.4",
+    "Gender": "1",
+    "breakfast": "1",
+    "coffee": "1",
+    "exercise": "1",
+    "drink": "1",
+    "comfort_food": "none",
+    "sports": "1",
+    "weight": "187"
+  },
+  {
+    "GPA": "3.654",
+    "Gender": "1",
+    "breakfast": "1",
+    "coffee": "2",
+    "exercise": "1",
+    "drink": "2",
+    "comfort_food": "chocolate, chips, ice cream",
+    "sports": "1",
+    "weight": "155"
+  },
+  {
+    "GPA": "3.3",
+    "Gender": "1",
+    "breakfast": "1",
+    "coffee": "2",
+    "exercise": "2",
+    "drink": "1",
+    "comfort_food": "frozen yogurt, pizza, fast food",
+    "sports": "2",
+    "weight": "I'm not answering this"
+  }
+]
